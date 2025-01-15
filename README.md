@@ -1,4 +1,4 @@
-# README for Project Components
+# Project Components for overview
 
 This README provides an overview of the three main applications developed as part of this project. Each application showcases unique functionality and leverages modern tools and libraries.
 

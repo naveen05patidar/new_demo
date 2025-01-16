@@ -63,3 +63,6 @@ This README provides an overview of the three main applications developed as par
    - Manages the list and related functionalities.
    - Implements `createAsyncThunk` for operations like updates and status changes.
 
+
+# Note :
+-  I am also providing screenshots of particular screens. please check it once also 

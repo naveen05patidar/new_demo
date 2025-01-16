@@ -5,26 +5,26 @@ import { toast } from "react-toastify";
 
 export const get_theme_change = createAsyncThunk(
   "theme_change",
-  async (data) => {
+   (data) => {
     return data;
   }
 );
-export const get_files = createAsyncThunk("files", async (data) => {
+export const get_files = createAsyncThunk("files",  (data) => {
   store.dispatch(set_open(false));
   return data;
 });
-export const set_open = createAsyncThunk("set_open", async (data) => {
+export const set_open = createAsyncThunk("set_open",  (data) => {
   return data;
 });
 export const set_open_modal = createAsyncThunk(
   "set_open_modal",
-  async (data) => {
+   (data) => {
     return data;
   }
 );
 export const set_annotationMode = createAsyncThunk(
   "set_annotationMode",
-  async (data) => {
+   (data) => {
     return data;
   }
 );
@@ -77,7 +77,7 @@ export const get_files_list = createAsyncThunk(
 
 export const set_show_image = createAsyncThunk(
   "set_show_image",
-  async (data) => {
+   (data) => {
     return data;
   }
 );
